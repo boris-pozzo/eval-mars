@@ -268,11 +268,13 @@ h4{
     display: flex;
     align-items: center;
   }
+
   .navbar-mobile{
     display: flex;
     justify-content: space-between;
     width: 100%;
   }
+
   .navbar-mobile i{
     display: flex;
   }
@@ -280,4 +282,14 @@ h4{
   .cards-actu{
     flex-direction: column;
   }
+
+  .strategie-container {
+    height: 1100px;
+  }
+  .strategie-container-center{
+    flex-direction: column;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
 }
